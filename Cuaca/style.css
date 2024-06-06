@@ -1,0 +1,15 @@
+.temp {
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  display: inline-block;
+  padding: 5px 8px;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  overflow-y: hidden;
+  background-color: white;
+}
